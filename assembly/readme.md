@@ -79,6 +79,17 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
 4. **Install the Sensor Array:**
    - Glue the sensor array to the top of the command deck.
 
+
+   ![PXL_20240310_184041649.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/799df54d-1cce-4352-9876-b93d4e1c0924)
+
+![PXL_20240310_184036062.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/84712b19-68a8-436c-ace0-6b2d33339e35)
+
+![PXL_20240325_001037361.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/7d7e04d5-7a62-49d9-a63f-bcb45a146a75)
+
+![PXL_20240325_001030954.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/af8b7f3a-a264-4209-94b4-c0441de66617)
+
+
+
 ---
 
 ## Step 3: Assemble the Engines
@@ -93,6 +104,11 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
 
 3. **Attach the Secondary Engines:**
    - Glue the two secondary engines between the main engines.
+
+![PXL_20240404_164143271.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/da9fdcd0-bd00-4975-9181-87fb397913b2)
+
+![PXL_20240331_190820790.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/0ee07df1-c4de-46a0-9c34-5e62beffac44)
+
 
 ---
 
@@ -126,9 +142,32 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
 2. **Detail Painting (Optional):**
    - Use fine brushes and model paints to add details and weathering to the model.
 
+
+![PXL_20240428_233715639.MP.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/91e5037f-f39d-441e-afda-d3a5eab4685b)
+
+![IMG_20240328_140217.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/13019a12-6c6f-4e42-9d60-4b648e38e384)
+
+![PXL_20240407_222723644.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/61a8ed21-308a-4f28-8630-e9ef996e9744)
+
+![IMG_20240328_140211.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/637f49d5-f555-4ddf-8140-23053ca285e1)
+
+![PXL_20240406_212112552.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/7776099f-f857-47ea-893f-05705da3a42e)
+
+
+
 3. **Assemble the Display Stand:**
    - Follow the instructions included with the display stand kit to assemble it.
    - Mount your completed model on the stand.
+
+
+![PXL_20240428_233726208.MP.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/47ff1392-20d2-45ca-aebb-a8dfeae0c862)
+
+![PXL_20240428_233903912.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/c2229730-a1d5-4522-85f5-025957b8ead5)
+
+![PXL_20240428_233749997.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/30ccb878-7466-4b3b-9e80-da9f4d5aa7c8)
+
+![PXL_20240428_233920885.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/a943cc0b-9b0c-4b26-a700-3aebfff7d1f4)
+
 
 ---
 

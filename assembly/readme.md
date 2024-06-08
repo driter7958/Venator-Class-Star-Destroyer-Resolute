@@ -45,7 +45,7 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
    - Remove the upper and lower hull pieces from the sprues using a hobby knife.
    - Sand any rough edges or leftover sprue marks.
 
-![PXL_20240302_205513393.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/055886c8-fde1-474b-8f5e-7ebe1ad9f281)
+![Forward hull assembly](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/055886c8-fde1-474b-8f5e-7ebe1ad9f281)
 
 
 2. **Glue the Hull Pieces Together:**

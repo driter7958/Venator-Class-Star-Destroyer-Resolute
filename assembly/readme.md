@@ -45,10 +45,16 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
    - Remove the upper and lower hull pieces from the sprues using a hobby knife.
    - Sand any rough edges or leftover sprue marks.
 
+![PXL_20240302_205513393.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/055886c8-fde1-474b-8f5e-7ebe1ad9f281)
+
+
 2. **Glue the Hull Pieces Together:**
    - Apply plastic cement along the edges of the lower hull.
    - Carefully place the upper hull onto the lower hull, aligning them properly.
    - Hold the pieces together until the glue sets, using clamps if necessary.
+
+![PXL_20240302_205519209.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/98bc1b02-c99b-4370-96a0-a3214c94a2b8)
+
 
 3. **Attach the Side Panels:**
    - Glue the side panels to the hull, ensuring a snug fit.

@@ -72,6 +72,8 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
    - Apply glue to the base of the bridge tower.
    - Attach the bridge tower to the designated spot on the upper hull.
 
+![PXL_20240325_001037361.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/7d7e04d5-7a62-49d9-a63f-bcb45a146a75)
+
 3. **Attach the Command Deck:**
    - Glue the command deck on top of the bridge tower.
    - Ensure it is centered and aligned properly.
@@ -84,7 +86,7 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
 
 ![PXL_20240310_184036062.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/84712b19-68a8-436c-ace0-6b2d33339e35)
 
-![PXL_20240325_001037361.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/7d7e04d5-7a62-49d9-a63f-bcb45a146a75)
+
 
 ![PXL_20240325_001030954.jpg](https://github.com/driter7958/Venator-Class-Star-Destroyer-Resolute/assets/169092499/af8b7f3a-a264-4209-94b4-c0441de66617)
 

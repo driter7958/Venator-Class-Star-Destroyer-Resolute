@@ -36,6 +36,7 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
 5. **Additional Details**
    - Decals
    - Display Stand
+   - adding another thing you need.  
 
 ---
 
@@ -67,6 +68,8 @@ Welcome to the assembly instructions for the Venator-Class Star Destroyer "Resol
 1. **Prepare the Bridge Parts:**
    - Remove the bridge tower, command deck, and sensor array from the sprues.
    - Sand any rough edges.
+
+Drew put a picture here  
 
 2. **Glue the Bridge Tower to the Hull:**
    - Apply glue to the base of the bridge tower.

@@ -1,8 +1,11 @@
 # Backstory of the Venator-Class Star Destroyer "Resolute"
 
+
 ## Name: Venator-Class Star Destroyer "Resolute"
-**Commanding Officer:** Jedi General Jaden Kael  
-**Second in Command:** Clone Commander Rex-79  
+
+| **Commanding Officer:** Jedi General Jaden Kael  <br>**Second in Command:** Clone Commander Rex-79 | ![](https://galacticarmory.net/cdn/shop/files/Comp194_590x.gif?v=1698781844) |     |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --- |
+|                                                                                                    |                                                                              |     |
 
 ---
 

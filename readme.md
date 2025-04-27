@@ -3,8 +3,9 @@
 
 ## Name: Venator-Class Star Destroyer "Resolute"
 
-| **Commanding Officer:** <br>Jedi General Jaden Kael  <br>**Second in Command:** <br>Clone Commander Rex-79 | ![](https://galacticarmory.net/cdn/shop/files/Comp194_590x.gif?v=1698781844) |
-| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Commanding Officer:** <br>Jedi General Jaden Kael  <br>**Second in Command:** <br>Clone Commander Rex-79 | ![x](https://galacticarmory.net/cdn/shop/files/Comp194_590x.gif?v=1698781844) |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| xc                                                                                                         | xc                                                                            |
 
 ---
 
